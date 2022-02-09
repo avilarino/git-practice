@@ -1,0 +1,7 @@
+
+
+git init => crea la carpeta de git en el proyecto que estamos usando.
+            (es una carpeta oculta - trabaja internamente)
+
+
+git status => 
