@@ -4,4 +4,10 @@ git init => crea la carpeta de git en el proyecto que estamos usando.
             (es una carpeta oculta - trabaja internamente)
 
 
-git status => 
+git status => para ver los archivos que tenemos
+
+git add . => para decir que archivo agregar
+
+git log => te dice cuales fueron los commit
+
+git checkout -- index.html => para volver atrás en el index.html
