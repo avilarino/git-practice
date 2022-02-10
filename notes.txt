@@ -11,3 +11,4 @@ git add . => para decir que archivo agregar
 git log => te dice cuales fueron los commit
 
 git checkout -- index.html => para volver atrás en el index.html
+
