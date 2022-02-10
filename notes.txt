@@ -13,3 +13,19 @@ git log => te dice cuales fueron los commit
 git checkout -- index.html => para volver atrás en el index.html
 
 git diff => te muestra las diferencias de lo que uno arreglo
+
+git branch => creamos una rama
+git branch -d => borramos una rama
+git checkout nombreRama => Vamos a la rama
+
+git log => muestra los commit
+git reset => vamos al commit que queremos 
+
+
+
+
+
+
+
+fazt web: 
+https://www.youtube.com/watch?v=HiXLkL42tMU
